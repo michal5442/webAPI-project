@@ -1,0 +1,4 @@
+E:\לימודים\api\WebAopiShop\WebAopiShop\wwwroot\script.js
+E:\לימודים\api\WebAopiShop\WebAopiShop\wwwroot\update.html
+E:\לימודים\api\WebAopiShop\WebAopiShop\wwwroot\index.html
+E:\לימודים\api\WebAopiShop\WebAopiShop\wwwroot\update.js
