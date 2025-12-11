@@ -1,0 +1,11 @@
+E:\לימודים\api\WebAopiShop\DTOs\bin\Debug\net9.0\DTOs.deps.json
+E:\לימודים\api\WebAopiShop\DTOs\bin\Debug\net9.0\DTOs.dll
+E:\לימודים\api\WebAopiShop\DTOs\bin\Debug\net9.0\DTOs.pdb
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfoInputs.cache
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfo.cs
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\DTOs.csproj.CoreCompileInputs.cache
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\DTOs.dll
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\refint\DTOs.dll
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\DTOs.pdb
+E:\לימודים\api\WebAopiShop\DTOs\obj\Debug\net9.0\ref\DTOs.dll
