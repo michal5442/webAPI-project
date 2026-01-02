@@ -1,0 +1,877 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\studies\\api\\WebAopiShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\userrepositoryintegrationtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\userrepositoryintegrationtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|f:\\studies\\api\\webaopishop\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\userrepositoryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\userrepositoryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|f:\\studies\\api\\webaopishop\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|f:\\studies\\api\\webaopishop\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|f:\\studies\\api\\webaopishop\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|f:\\studies\\api\\webaopishop\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA26D087-22D9-4A49-91D6-B2FF4B3B9C64}|DTOs\\DTOs.csproj|solutionrelative:dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\productservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\productservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|f:\\studies\\api\\webaopishop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|f:\\studies\\api\\webaopishop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|f:\\studies\\api\\webaopishop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|f:\\studies\\api\\webaopishop\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|f:\\studies\\api\\webaopishop\\entities\\checkpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\checkpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|f:\\studies\\api\\webaopishop\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\controllers\\ordercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\controllers\\ordercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\webaopishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\webaopishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|f:\\studies\\api\\webaopishop\\sevices\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|f:\\studies\\api\\webaopishop\\webaopishop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\script.js",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\script.js",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-27T22:44:24.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepositoryIntegrationTesting.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryIntegrationTesting.cs",
+              "RelativeDocumentMoniker": "TestProject\\UserRepositoryIntegrationTesting.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryIntegrationTesting.cs",
+              "RelativeToolTip": "TestProject\\UserRepositoryIntegrationTesting.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T18:54:42.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:27:28.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepositoryUnitTesting.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryUnitTesting.cs",
+              "RelativeDocumentMoniker": "TestProject\\UserRepositoryUnitTesting.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryUnitTesting.cs",
+              "RelativeToolTip": "TestProject\\UserRepositoryUnitTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T18:40:14.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:18:06.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "update.js",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.js",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\update.js",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.js",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\update.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-26T16:11:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Sevices\\CategoryService.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\CategoryService.cs",
+              "RelativeToolTip": "Sevices\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:59:51.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapping.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\AutoMapping.cs",
+              "RelativeDocumentMoniker": "Sevices\\AutoMapping.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\AutoMapping.cs",
+              "RelativeToolTip": "Sevices\\AutoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:03:43.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:32:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\DTOs\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderItemDTO.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\DTOs\\OrderItemDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:01:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDTO.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:44:44.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\DTOs\\Category.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\DTOs\\Category.cs",
+              "RelativeToolTip": "DTOs\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T18:19:43.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:37:18.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\PasswordService.cs",
+              "RelativeDocumentMoniker": "Sevices\\PasswordService.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\PasswordService.cs",
+              "RelativeToolTip": "Sevices\\PasswordService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:23:58.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\PasswordRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PasswordRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\PasswordRepository.cs",
+              "RelativeToolTip": "Repositories\\PasswordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:23:27.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:32:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\UserService.cs",
+              "RelativeDocumentMoniker": "Sevices\\UserService.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\UserService.cs",
+              "RelativeToolTip": "Sevices\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:31:10.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Program.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Program.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Program.cs",
+              "RelativeToolTip": "WebAopiShop\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:39:52.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\UserContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserContext.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\UserContext.cs",
+              "RelativeToolTip": "Repositories\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:26:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-25T14:58:13.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductService .cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\ProductService .cs",
+              "RelativeDocumentMoniker": "Sevices\\ProductService .cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\ProductService .cs",
+              "RelativeToolTip": "Sevices\\ProductService .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:23:43.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAopiShop\\appsettings.json",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\appsettings.json",
+              "RelativeToolTip": "WebAopiShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T18:18:25.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "users.txt",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\users.txt",
+              "RelativeDocumentMoniker": "WebAopiShop\\users.txt",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\users.txt",
+              "RelativeToolTip": "WebAopiShop\\users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-26T17:03:09.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:59:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:53:16.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-25T14:56:57.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:53:55.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:31:42.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:53:06.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:31:57.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CheckPassword.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Entities\\CheckPassword.cs",
+              "RelativeDocumentMoniker": "Entities\\CheckPassword.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Entities\\CheckPassword.cs",
+              "RelativeToolTip": "Entities\\CheckPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:21:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:32:06.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Sevices\\IProductService.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\IProductService.cs",
+              "RelativeToolTip": "Sevices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:26:48.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:40:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Sevices\\IUserService.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\IUserService.cs",
+              "RelativeToolTip": "Sevices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:35:41.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderService .cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\OrderService .cs",
+              "RelativeDocumentMoniker": "Sevices\\OrderService .cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\OrderService .cs",
+              "RelativeToolTip": "Sevices\\OrderService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:40:46.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "nlog.config",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\nlog.config",
+              "RelativeDocumentMoniker": "WebAopiShop\\nlog.config",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\nlog.config",
+              "RelativeToolTip": "WebAopiShop\\nlog.config",
+              "ViewState": "AgIAAB8AAAAAAAAAAABBwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-14T18:45:17.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:19:17.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Sevices\\IOrderService.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\IOrderService.cs",
+              "RelativeToolTip": "Sevices\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:43:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAopiShop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:41:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderController .cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\OrderController .cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Controllers\\OrderController .cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\OrderController .cs",
+              "RelativeToolTip": "WebAopiShop\\Controllers\\OrderController .cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:45:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAopiShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:27:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "Sevices\\IPasswordService.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\IPasswordService.cs",
+              "RelativeToolTip": "Sevices\\IPasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:43:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:22:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Controllers\\PasswordController.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "WebAopiShop\\Controllers\\PasswordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:27:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebAopiShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:41:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\index.html",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\index.html",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\index.html",
+              "ViewState": "AgIAACwAAAAAAAAAAKBrwDEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-10T16:32:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WebAopiShop.csproj",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\WebAopiShop.csproj",
+              "RelativeDocumentMoniker": "WebAopiShop\\WebAopiShop.csproj",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\WebAopiShop.csproj",
+              "RelativeToolTip": "WebAopiShop\\WebAopiShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T11:40:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Sevices\\Services.csproj",
+              "RelativeDocumentMoniker": "Sevices\\Services.csproj",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Sevices\\Services.csproj",
+              "RelativeToolTip": "Sevices\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T12:22:30.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "update.html",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.html",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\update.html",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.html",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\update.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-26T16:11:06.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAopiShop\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\WebAopiShop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAopiShop\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T16:13:54.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

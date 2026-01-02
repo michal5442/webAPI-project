@@ -1,0 +1,8 @@
+E:\studies\api\WebAopiShop\WebAopiShop\wwwroot\script.js
+E:\studies\api\WebAopiShop\WebAopiShop\wwwroot\update.html
+E:\studies\api\WebAopiShop\WebAopiShop\wwwroot\index.html
+E:\studies\api\WebAopiShop\WebAopiShop\wwwroot\update.js
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\update.html
+wwwroot\update.js

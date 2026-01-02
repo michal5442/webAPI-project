@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\studies\\api\\WebAopiShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\orderrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\orderrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|f:\\studies\\api\\webaopishop\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\categoryrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\categoryrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\categoryrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\categoryrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\productrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\productrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\productrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\productrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\orderrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\orderrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\userrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\userrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|f:\\studies\\api\\webaopishop\\testproject\\userrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6345E83-699B-4413-9F22-3E381DE0201B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\userrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepositoryIntegrationTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\CategoryRepositoryIntegrationTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\CategoryRepositoryIntegrationTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\CategoryRepositoryIntegrationTests.cs",
+              "RelativeToolTip": "TestProject\\CategoryRepositoryIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:48:52.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepositoryUnitTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\CategoryRepositoryUnitTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\CategoryRepositoryUnitTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\CategoryRepositoryUnitTests.cs",
+              "RelativeToolTip": "TestProject\\CategoryRepositoryUnitTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:46:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:42:34.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:41:22.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepositoryUnitTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\OrderRepositoryUnitTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\OrderRepositoryUnitTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\OrderRepositoryUnitTests.cs",
+              "RelativeToolTip": "TestProject\\OrderRepositoryUnitTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:14:57.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepositoryIntegrationTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\OrderRepositoryIntegrationTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\OrderRepositoryIntegrationTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\OrderRepositoryIntegrationTests.cs",
+              "RelativeToolTip": "TestProject\\OrderRepositoryIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:11:41.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepositoryUnitTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\ProductRepositoryUnitTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\ProductRepositoryUnitTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\ProductRepositoryUnitTests.cs",
+              "RelativeToolTip": "TestProject\\ProductRepositoryUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:06:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepositoryIntegrationTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\ProductRepositoryIntegrationTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\ProductRepositoryIntegrationTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\ProductRepositoryIntegrationTests.cs",
+              "RelativeToolTip": "TestProject\\ProductRepositoryIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:04:46.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseFixture.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\DatabaseFixture.cs",
+              "RelativeDocumentMoniker": "TestProject\\DatabaseFixture.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\DatabaseFixture.cs",
+              "RelativeToolTip": "TestProject\\DatabaseFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:47:57.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepositoryIntegrationTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryIntegrationTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\UserRepositoryIntegrationTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryIntegrationTests.cs",
+              "RelativeToolTip": "TestProject\\UserRepositoryIntegrationTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:29:29.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepositoryUnitTests.cs",
+              "DocumentMoniker": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryUnitTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\UserRepositoryUnitTests.cs",
+              "ToolTip": "F:\\studies\\api\\WebAopiShop\\TestProject\\UserRepositoryUnitTests.cs",
+              "RelativeToolTip": "TestProject\\UserRepositoryUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:28:51.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
